@@ -38,3 +38,7 @@ npm install --save-dev electron-packager
 ```
 npx electron-packager ~/DeeeepioDesktopClient deeeepclient --all
 ```
+### making windows installer
+```
+npm install --save-dev electron-winstaller
+```
