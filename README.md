@@ -33,11 +33,8 @@ npm start
 
 ## Building
 ```
-npm install --save-dev @electron-forge/cli
+npm install --save-dev electron-packager
 ```
 ```
-npx electron-forge import
-```
-```
-npm run make
+npx electron-packager DeeeepioClient --all
 ```
