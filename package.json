@@ -1,0 +1,15 @@
+{
+  "name": "deeeepclient",
+  "version": "1.0.0",
+  "description": "a hacked deeeep.io client",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Pi",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "electron": "^18.2.0"
+  }
+}
