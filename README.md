@@ -1,5 +1,6 @@
 # DeeeepioDesktopClient
 
+## Fetching project
 ```
 sudo apt update
 ```
@@ -18,6 +19,11 @@ cd DeeeepioDesktopClient
 ```
 npm install
 ```
+
+## Running electron
 ```
 npm start
 ```
+
+## Building
+[https://www.electronjs.org/docs/latest/development/build-instructions-gn](https://www.electronjs.org/docs/latest/development/build-instructions-gn)
